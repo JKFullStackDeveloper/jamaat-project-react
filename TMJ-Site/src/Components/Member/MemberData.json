@@ -1,40 +1,58 @@
 {
     "member" :[
-      {
+      { 
+        "id":1,
         "name":"રફીક ભાઈ જાની ભાઈ",
-        "address":"ભવાની શેરી"
+        "address":"ભવાની શેરી",
+        "feesStatus":"Paid"
       },
       {
+        "id":2,
         "name":"ઇદ્રીશ ભાઈ જાની ભાઈ",
-        "address":"એ-પાક"
+        "address":"એ-પાક",
+        "feesStatus":"Paid"
       },
       {
+        "id":3,
         "name":"ગનીભાઈ હુસેન ભાઈ",
-        "address":"જૂની કોલોની"
+        "address":"જૂની કોલોની",
+        "feesStatus":"Paid"
       },
       {
+        "id":4,
         "name":"અલારખ ભાઈ હુસેન ભાઈ",
-        "address":"ગોરખી રોડ"
+        "address":"ગોરખી રોડ",
+        "feesStatus":"Paid"
       },
       {
+        "id":5,
         "name":"ઇમ્તયાજ ભાઈ અલારખ ભાઈ",
-        "address":"પંચશીલ"
+        "address":"પંચશીલ",
+        "feesStatus":"Paid"
       },
       {
+        "id":6,
         "name":"એજાજ ભાઈ અલારખ ભાઈ",
-        "address":"ખારમાં"
+        "address":"ખારમાં",
+        "feesStatus":"Paid"
       },
       {
+        "id":7,
         "name":"અશરફ ભાઈ હુસેન ભાઈ",
-        "address":"નવીકોલોની "
+        "address":"નવીકોલોની ",
+        "feesStatus":"Paid"
       },
       {
+        "id":8,
         "name":"અબ્બાસ ભાઈ મજીદ ભાઈ",
-        "address":"નવીકોલોની"
+        "address":"નવીકોલોની",
+        "feesStatus":"Paid"
       },
       {
+        "id":9,
         "name":"ઇકબાલ ભાઈ ઈસ્માઈલ ભાઈ",
-        "address":"ગોપનાથરોડ "
+        "address":"ગોપનાથરોડ ",
+        "feesStatus":"Paid"
       }
     ] 
     }
